@@ -1,13 +1,27 @@
 hello 1
 hello 2
 100
-<<<<<<< HEAD
-if(true){
     nested statement here
+if(block1){
+<<<<<<< HEAD
+
 }
-||||||| ef90d9b... if
-if(true){
+
+if(block2){
+    nop
+}
+
+if(block3){
     
 }
+
+if(block4){
+||||||| 0cfc27a... block2
+
+}
+
+if(block2){
 =======
->>>>>>> parent of ef90d9b... if
+>>>>>>> parent of 0cfc27a... block2
+    
+}

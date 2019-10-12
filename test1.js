@@ -6,9 +6,9 @@ if(block1){
 
 }
 
-if(block2){
+
     nop
-}
+
 
 if(block3){
     
