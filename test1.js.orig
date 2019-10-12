@@ -1,12 +1,13 @@
 hello 1
 hello 2
+100
 <<<<<<< HEAD
-100
-101
-103
-||||||| 216ccb1... 101
-100
-101
+if(true){
+    nested statement here
+}
+||||||| ef90d9b... if
+if(true){
+    
+}
 =======
-100
->>>>>>> parent of 216ccb1... 101
+>>>>>>> parent of ef90d9b... if
