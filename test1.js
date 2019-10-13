@@ -17,3 +17,7 @@ if(block3){
 if(block4){
     
 }
+
+if(block4 ){
+    log(block4)
+}
